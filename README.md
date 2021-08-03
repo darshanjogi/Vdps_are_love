@@ -5,13 +5,6 @@ List of Vdp programs which are not affiliated with known bug bounty platforms su
 
 Pull requests are welcome! 
 
-How you can contribute ? 
-creat pull request 
-add name of program you have experienced with
-add url or reporting mail address 
-add program reward
-add averag response time
-
 
 # Contributors 
 Coming soon
