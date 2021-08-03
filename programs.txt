@@ -17,4 +17,5 @@ Motiv.nl                   https://www.motiv.nl/motiv-ict-security/coordinated-v
 hackerearth.com            https://www.hackerearth.com/docs/wiki/program/bounty/                                         No                        Yes                    30 Day
 Groww                      https://groww.in/p/security/                                                                  No                        Yes                     5 Day
 bentley.com                https://www.bentley.com/responsible_disclosure.pdf                                            Yes                       No                     15 Day
-
+Investing.com              investing-support.com/hc/en-us/articles/360010956797-Investing-com-s-Bug-Bounty-Program       Yes                       No                     90 Day
+Zoho                       https://bugbounty.zoho.com/bb/info?department=zoho                                            Yes                       Yes                     1 Day
