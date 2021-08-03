@@ -1,1 +1,9 @@
-
+Programs Name              Program URls                                                                                  Bounty                   Swag          Averag ResponseTime 
+spikenow                   https://www.spikenow.com/help/responsible-disclosure-program/                                 Yes                       No                     5 Day
+Protonmail                 https://protonmail.com/blog/protonmail-bug-bounty-program/                                    Yes                       Yes                    7 Day
+synology                   https://www.synology.com/en-in/security/bounty_program                                        Yes                       No                    10 Day
+grailed                    https://help.grailed.com/hc/en-us/articles/1260800533630-Grailed-s-Bug-Bounty-Program         Yes                       No                     4 Day
+coding ninjas              https://www.codingninjas.com/bug-bounty                                                       No                        No                    30 Day
+range.co                   https://www.range.co/security/bounty                                                          Yes                       Yes                    7 Day
+urban.io                   https://www.urban.io/security-vulnerability-disclosure-program/                               NO                        Yes                    10 Day
+Ivanti                     https://www.ivanti.com/support/contact-security                                               No                        Yes                    15 Day
