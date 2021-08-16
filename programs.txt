@@ -11,8 +11,7 @@ coding ninjas              https://www.codingninjas.com/bug-bounty              
 range.co                   https://www.range.co/security/bounty                                                          Yes                       Yes                     7 Day
 urban.io                   https://www.urban.io/security-vulnerability-disclosure-program/                               No                        Yes                    10 Day
 Ivanti                     https://www.ivanti.com/support/contact-security                                               No                        Yes                    15 Day
-Fastly                     https://www.fastly.com/security/report-security-issue/                                        No                        Yes                    10 Day 
-luminpdf                   https://www.luminpdf.com/faq-security/                                                        Yes                       No                     20 Day
+Fastly                     https://www.fastly.com/security/report-security-issue/                                        No                        Yes                    10 Day                                                            
 Motiv.nl                   https://www.motiv.nl/motiv-ict-security/coordinated-vulnerability-disclosure/                 Yes                       No                      5 Day
 hackerearth.com            https://www.hackerearth.com/docs/wiki/program/bounty/                                         No                        Yes                    30 Day
 Groww                      https://groww.in/p/security/                                                                  No                        Yes                     5 Day
