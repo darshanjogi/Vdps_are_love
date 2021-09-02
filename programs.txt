@@ -20,3 +20,5 @@ Investing.com              investing-support.com/hc/en-us/articles/360010956797-
 Zoho                       https://bugbounty.zoho.com/bb/info?department=zoho                                            Yes                       Yes                     1 Day
 Jotform                    https://www.jotform.com/answers/678270-bug-bounty-program-and-report-security-vulnerability   Yes                       No                      5 Day
 pratilipi.com              https://hindi.pratilipi.com/vulnerability-disclosure-policy                                   Yes                       No                      7 Day
+luminpdf                   https://www.luminpdf.com/faq-security/                                                        Yes                       No                      5 Day
+ifixit                     https://www.ifixit.com/Info/Responsible_Disclosure                                            Yes                       No                      20 Day
