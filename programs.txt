@@ -23,3 +23,4 @@ pratilipi.com              https://hindi.pratilipi.com/vulnerability-disclosure-
 luminpdf                   https://www.luminpdf.com/faq-security/                                                        Yes                       No                      5 Day
 ifixit                     https://www.ifixit.com/Info/Responsible_Disclosure                                            Yes                       No                      20 Day
 xsolla                     https://help.xsolla.com/bounty/rewards                                                        Yes                       No                       3 Day
+Nestforms                  https://www.nestforms.com/Bug-Bounty-Program                                                  Yes                       No                       7 Day
