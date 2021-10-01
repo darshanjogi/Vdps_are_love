@@ -21,3 +21,8 @@ Zoho                       https://bugbounty.zoho.com/bb/info?department=zoho   
 Jotform                    https://www.jotform.com/answers/678270-bug-bounty-program-and-report-security-vulnerability   Yes                       No                      5 Day
 pratilipi.com              https://hindi.pratilipi.com/vulnerability-disclosure-policy                                   Yes                       No                      7 Day
 sketchfab.com              https://help.sketchfab.com/hc/en-us/articles/360044282632-Security-Vulnerabilities-Bug-Bounty Yes                       No                      3 Day
+luminpdf                   https://www.luminpdf.com/faq-security/                                                        Yes                       No                      5 Day
+ifixit                     https://www.ifixit.com/Info/Responsible_Disclosure                                            Yes                       No                      20 Day
+xsolla                     https://help.xsolla.com/bounty/rewards                                                        Yes                       No                       3 Day
+Nestforms                  https://www.nestforms.com/Bug-Bounty-Program                                                  Yes                       No                       7 Day
+
