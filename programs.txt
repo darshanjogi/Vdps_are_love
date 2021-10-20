@@ -25,5 +25,5 @@ luminpdf                   https://www.luminpdf.com/faq-security/               
 ifixit                     https://www.ifixit.com/Info/Responsible_Disclosure                                            Yes                       No                      20 Day
 xsolla                     https://help.xsolla.com/bounty/rewards                                                        Yes                       No                       3 Day
 Nestforms                  https://www.nestforms.com/Bug-Bounty-Program                                                  Yes                       No                       7 Day
-Swisscom                   https://issue.swisscom.ch/servicedesk/customer/portal                                         Yes                       No                       2 Day
+
 Atolcd                     https://www.atolcd.com/.well-known/security.txt                                               No                        Yes                      5 Day           
